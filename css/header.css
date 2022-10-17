@@ -1,0 +1,49 @@
+.header {
+    padding-top: 30px;
+    background-image: url(../images/Лампочки.png);
+    background-position: 609px 151px;
+    background-repeat: no-repeat;
+    
+    overflow: hidden;
+}
+
+.header__container {
+    max-width: 1250px;
+    padding: 0 50px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 150px;
+}
+
+.header__menu {
+    display: flex;
+    align-items: center;
+
+ }
+
+.navigation-list {
+    display: flex;
+    list-style-type: none;
+}
+
+.navigation-link {
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.title__container {
+   
+   
+}
+.title {
+    font-size: 50px;
+    text-decoration: underline orange;
+    
+}
+
+.colortext {
+    color: orange;
+}
+

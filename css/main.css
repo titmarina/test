@@ -1,0 +1,9 @@
+@import url('../libs/normalize.css');
+@import url('../css/global.css');
+@import url('../css/header.css');
+@import url('../css/content.css');
+
+* {
+    box-sizing: border-box;
+}
+
