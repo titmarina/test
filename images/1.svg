@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 41" width="21" height="41">
+	<title>О нас</title>
+	<defs>
+		<image width="29" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAAAXNSR0IArs4c6QAAAxpJREFUSEvFl11S2lAUx/8nIXyIM+IO6ArENw3tDK5AugLpm8HpDKzAuALpdCSP2hUYVyAvoG/iCmQHTWdAAgk5nZsUihENwTq9L3zk3Pu75/uEsMTi01JuknL2WeIymHIgFMAQnxYYXRBb5JEpj5QrqresqCPpNYGhsZNXIB8z+DMzmQzP9CZs2a7d3ax3rZ+nhVw6kS7IkpQHUYmIywS6dDA5yWi3vZfOfhHqGGoDQIWZ9WT1Rnxfao2buzUi0kF0rhy264s2PYMKU7oZ55o93A9Gg5rQaCnanJCwQDaVbZCErcRQ2Qub/Al0CvQmfJU66uhxYWH50ZmqSzLth8FPoI5R7Hoem/8COL3AFKwctren/82gwofMlEtW25W3ahjeP24WL4jYUrROTTzzoSJKE5C6ffsxv4oPoy4pfLyeXuu58Aoiqn3o2ChegL1unCh1m5/KTJMtReucREF9RnO3BpIKSa1dIT940uOeonVyy2wOrCKfAygJeUVrv5rr82c6hmol7GSexoZaAVNpGV+Oz9QCSXQHQpC3jFocqPAtiFvkGEXTY+8iVb0xozQVVrHTdk74xTHUY4D0WNAztUISlckx1Jbrenrm620rChoyVWzo8PtOKZGQdKGppWjtpfz5VqgfxZnsg4ByHBNNwauYV+wVPF/Tvj2InZ+rQIN8zfb+m09N9thMHnUu3juQxtPojZOnQSFxC0H95AMGKgDtid8u3N5rjTuoSn/y1D8o5Two1fZmlKaO8bEE8PViOdajSuKsIq1ae6Mu+LzTzNXeWZdh+a4/Gnx4ty6Tyj64NNmedZkgf9QGAxtJrfMlrhZR8gv76d+Ef6fJQaKyorX9AAyCcG4F0em0AL6MCooo7cRzf1SRqJywldL8cLZ4Gkw7LQbfDezH+io+9qfB9NopgbbDwGeahgp6A0wHzJ6ePLr5toxmQS7u1gjSMYh/TGei8N7ICV+GrBNjn4lNsNciUK8/Gt5PJ/z1VGaLwXmQVCKmMhOuJpjoK034YV876bF4ZSgDnANIBMUGgF8AdwGyGGwqdtJc5l3mNxk7zZfSwFjFAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #fcba7c } 
+	</style>
+	<g id="О нас">
+		<g id="Наполнение">
+			<g id="Текст">
+				<g id="1">
+					<use id="1" href="#img1" transform="matrix(0.724,0,0,0.724,0,0)"/>
+					<path id="1" class="shp0" d="M10 20L11 20L11 41L10 41L10 20Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

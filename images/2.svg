@@ -1,0 +1,21 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 61" width="21" height="61">
+	<title>О нас</title>
+	<defs>
+		<image width="29" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAAAXNSR0IArs4c6QAAA1RJREFUSEu1l01y00gUx/9PVssypgpzA3MCnB3YLJQTRJwAs4uSoio+QcQJAkWBZhdzgigniBYjh13ECewbjKYqJrIl6021BqUc46Rlz6CNXep+/Xuv36cIFR4+sVqLerrHGttgaoHQAUP+xmBEII4pJ782E+c0CGLVkfTQhhvvRVugdszg18zkM3I/X3CcZEn0dBDFf510WqZudmqa1gaRRcQ2gc5SLN43nG+T+86+F5p63Q8A+szsGgeX8n+lZ/7l5RERuSA6FfvhYJ3QL1B5lVkjveAc36ez6ZG0qBJtaZO8gWa9+YE0PNdvxO7qld+BlsB8wef1w5G7KWx1/+xz19VqtLcKvgNNvV6U5+z/H8BSgRIs9sOd8t0tVPqQmVrGQdj/rxauys+/9IZEHAtndCTXCqiMUh1adJ38aG/jQ5WS0sePzUeTDHlHRnUBnXu9ITiPqkRp6r2yCPyGgTYBEwZ9Fc6fgQosoxqkdQwn7FMRPOZ8IpxRSy3YOyINx8TwGTwhUF/CAdqtAk69bqwnRpvmXrcPJquKL6WVGbJJmfg/o30McCD2R68rKD0EcUCp1/Nzzof1g0tfJbRuPfV6F/K9cMJdlfz8c7dPGtmUet0gy3K38e6b0i/rDs283hhAoDvhWxX05tMLS9c1V1oaCydU+nO9la8sgC+q+rSI4kZzLKEsnPDBwr8OWHQeM71i4qiKP8szJK+w9DqZbpyfmdc7BWDVErFTpZ1J6L/52pxs5VMJZILNC941DkeRypfl+rJPfc7ZNw5HwyrC2wKLIlRG7yZ5KvcS6JQZAyK6Y6Ge6JHqmmUNLvK0SPB6OhYH4VOVpekf3TMw2ev3qavSbUXatPaqFLtv/U7tve0yXLu6nk2f/bYuU2+OM1rs3HYZCS76KfDEcEbKyrKptWv76VLi/p7JQSNbOGGn5Pw6I5lpAPCZcEbvN7VodX8xqmhk64mwliN7/TRopgGDr6bJj8E2Pi6mQfPRCYF2VoFSsYfnXqY3zLlrHF5+rGp1MfdCOwbx13ImWpVVTvg11Fxi7DGxD84DAk2uZzffywn/cb3xnMFtkGYRk82E8wUW7lYT/rJ2soCk5lx+MtgAtwCSQfEEwN8ARwDFDPZFYviqqiTP/Qf1duuXSOKMPAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #fcba7c } 
+	</style>
+	<g id="О нас">
+		<g id="Наполнение">
+			<g id="Текст">
+				<g id="2">
+					<use id="2" href="#img1" transform="matrix(0.724,0,0,0.724,0,20)"/>
+					<path id="2 низ" class="shp0" d="M10 40L11 40L11 61L10 61L10 40Z" />
+					<path id="2 верх" class="shp0" d="M10 0L11 0L11 21L10 21L10 0Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
